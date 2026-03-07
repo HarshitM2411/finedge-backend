@@ -1,0 +1,10 @@
+[
+  {
+    "id": "3af8058a-6157-4770-a5d9-6574e5c2b266",
+    "userId": "USER_ID",
+    "type": "expense",
+    "amount": 500,
+    "category": "food",
+    "date": "2026-03-07"
+  }
+]
